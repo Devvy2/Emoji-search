@@ -1,0 +1,25 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+input {
+  margin-top: 3em;
+  width: 20em;
+  height: 2em;
+}
+
+.copy-message {
+  margin-top: 2em;
+  font-size: 2em;
+}
+
+.emoji-list {
+  margin-top: 3em;
+}
+
+.emoji {
+  font-size: 2em;
+}
